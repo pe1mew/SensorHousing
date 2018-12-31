@@ -18,11 +18,15 @@ For the purpose of reproduction two images are provided to see how the sensor ho
 
 ## BOM
 for this Sensor housing is needed:
-    - a 75 mm PVC sleeve
-    - PLA for 3D printing
+ - a 75 mm PVC sleeve
+ - PLA for 3D printing
+ 
+## To do's
+ - Move the cable entry in the cap from top to bottom. It will prevent water poring in to the sensor housing
+ - Add a sun cover to the design.
 
 # Notes
-If you use this design or a design using this sensor housing as a basis, you are happily invited to twitter your version to @pe1mew. It makes my day when you do so. Thanks!
+If you use this design or a design using this sensor housing as a basis, you are happily invited to twitter your version to [@pe1mew](https://twitter.com/pe1mew/). It makes my day when you do so. Thanks!
     
 ## Disclaimer
 The PE1MEW Sensor Housing is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
