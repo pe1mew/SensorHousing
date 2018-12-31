@@ -11,22 +11,22 @@ One cap has an entry for a UTP cable to access the interior of the housing. In t
 For 3D printing the STL files are made available.
 
 ## Sketchup files
-The parts are designed using Sketchup 8 and converted to STL using Sketchup-free (web edition). 
+The parts are designed using Sketchup 8 and converted to STL using Sketchup-free (web edition). These sektchup files can be used to change or adapt the deigns to your own requirements.
 
 ## Artist impressions
 For the purpose of reproduction two images are provided to see how the sensor housing is constructed. These are in "Pictures".
 
 ## BOM
 for this Sensor housing is needed:
- - a 75 mm PVC sleeve
- - PLA for 3D printing
+ - 1 x 75 mm PVC sleeve
+ - x meters PLA for 3D printing
  
 ## To do's
  - Move the cable entry in the cap from top to bottom. It will prevent water poring in to the sensor housing
  - Add a sun cover to the design.
 
 # Notes
-If you use this design or a design using this sensor housing as a basis, you are happily invited to twitter your version to [@pe1mew](https://twitter.com/pe1mew/). It makes my day when you do so. Thanks!
+If you use this design or a design using this sensor housing as a basis, you are happily invited to twitter your version to [@pe1mew](https://twitter.com/pe1mew/). It makes my day when you do so! Thanks!
     
 ## Disclaimer
 The PE1MEW Sensor Housing is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
