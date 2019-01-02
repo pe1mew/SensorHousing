@@ -1,5 +1,5 @@
 # SensorHousing
-Sensor housing used to accomodate a [Honeywell HPM particle sensor] (https://sensing.honeywell.com/sensors/particle-sensors/hpm-series) and a HTU21D Temperature and Humidty sensor.
+Sensor housing used to accomodate a [Honeywell HPM particle sensor](https://sensing.honeywell.com/sensors/particle-sensors/hpm-series) and a HTU21D Temperature and Humidty sensor.
 
 ![Exploded view of the PE1MEW Sensor Housing](Pictures/ParicleSensorSensorHolder_ArtistImpression_001.png
  "Exploded view of the PE1MEW Sensor Housing")
