@@ -1,8 +1,10 @@
 # SensorHousing
-Sensor housing used to accomodate a [Honeywell HPM particle sensor] (https://sensing.honeywell.com/sensors/particle-sensors/hpm-series) and a HTU21D Temperature and Humidty sensor.
+Sensor housing used to accomodate 
+ - a [Honeywell HPM particle sensor] (https://sensing.honeywell.com/sensors/particle-sensors/hpm-series) and a HTU21D Temperature and Humidty sensor.
+ - a SDS011 and a BME Temperature and Humidity sensor.
 
 ![Exploded view of the PE1MEW Sensor Housing](Pictures/ParicleSensorSensorHolder_ArtistImpression_001.png
- "Exploded view of the PE1MEW Sensor Housing")
+ "Exploded view of the PE1MEW Sensor Housing HPM Particle sensor")
  
 This housing is using a 75 mm PVC sleeve on which a 3D printed cap is placed at both ends. 
 One cap has an entry for a UTP cable to access the interior of the housing. In the sleeve a mounting ring is placed that hold the Honeywell HPM sensor and the PCB with the HTU sensor. By modifying the mounting ring any sensor can be installed inside the sleeve.
@@ -18,9 +20,12 @@ For the purpose of reproduction two images are provided to see how the sensor ho
 
 ## BOM
 for this Sensor housing is needed:
- - a 75 mm PVC sleeve
  - PLA for 3D printing
- 
+### Honeywell HPM particle sensor
+ - a 75 mm PVC sleeve
+### SDS011 particle sensor
+ - a 80 mm PVC sleeve
+
 ## To do's
  - Move the cable entry in the cap from top to bottom. It will prevent water poring in to the sensor housing
  - Add a sun cover to the design.
